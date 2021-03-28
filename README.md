@@ -44,3 +44,7 @@ All images have been given an alt attribute to comply with WCAG except backgroun
 
 Solution if prefered: add a title attribute to the proper div to display information for background image (optional)
 ![optional-title-for-bg-image](./assets/images/optional-bg-img-title.jpg)
+
+Post reference: http://christianheilmann.com/2009/02/25/so-how-do-you-add-alternative-text-to-background-images/ 
+
+<br />
