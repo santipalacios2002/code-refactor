@@ -18,4 +18,9 @@ The title has been modified to be more decriptive
 ![new title](./assets/images/new-title.jpg)
 
 
+## :heavy_check_mark: HTML Semantics
 
+Some elements have been updated in order to follow the proper HTML semantics
+
+
+![semantics](./assets/images/semantic.jpg)
