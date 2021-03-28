@@ -6,8 +6,9 @@ This project helped enhance user accessibility by following accessibility standa
 
 You can review the current web application's appearance and functionality by going to the following url: https://santipalacios2002.github.io/code-refactor/ 
 
+<br />
 
-## :heavy_check_mark: Decriptive page title
+## :heavy_check_mark: Descriptive page title
 
 The title has been modified to be more decriptive
 
@@ -17,10 +18,29 @@ The title has been modified to be more decriptive
 
 ![new title](./assets/images/new-title.jpg)
 
+<br />
 
 ## :heavy_check_mark: HTML Semantics
 
 Some elements have been updated in order to follow the proper HTML semantics
 
-
 ![semantics](./assets/images/semantic.jpg)
+
+<br />
+
+## :heavy_check_mark: Elements follow a logical structure 
+
+Verified that the all elements follow a logical structure
+
+![logical-structure](./assets/images/logical-structure.jpg)
+
+<br /> 
+
+## :heavy_check_mark: Accesible alt atributes for images
+
+All images have been given an alt attribute to comply with WCAG except background image which is used for aesthetic value and not visual content. 
+![Alt attribute for images](./assets/images/alt-img-1.jpg)
+![Alt attribute for images](./assets/images/alt-img-2.jpg)
+
+Solution if prefered: add a title attribute to the proper div to display information for background image (optional)
+![optional-title-for-bg-image](./assets/images/optional-bg-img-title.jpg)
