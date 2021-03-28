@@ -11,6 +11,10 @@ You can review the current web application's appearance and functionality by goi
 
 The title has been modified to be more decriptive
 
+```html
+<title>Horiseon | A marketing company</title>
+```
+
 ![new title](./assets/images/new-title.jpg)
 
 
