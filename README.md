@@ -48,3 +48,9 @@ Solution if prefered: add a title attribute to the proper div to display informa
 Post reference: http://christianheilmann.com/2009/02/25/so-how-do-you-add-alternative-text-to-background-images/ 
 
 <br />
+
+## :heavy_check_mark: id attribute added to SEO div 
+
+Added to maintain consistency across all header navigation links
+
+![seo-alt-attribute](./assets/images/seo-id.jpg)
