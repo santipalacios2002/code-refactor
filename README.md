@@ -54,3 +54,20 @@ Post reference: http://christianheilmann.com/2009/02/25/so-how-do-you-add-altern
 Added to maintain consistency across all header navigation links
 
 ![seo-alt-attribute](./assets/images/seo-id.jpg)
+
+<br />
+
+## :heavy_check_mark: css code consolidation
+
+A few lines of code were consolidated to minimize the amount of lines of code, facilitating the ease of identification of common classes with identical properties.
+
+**Sample of old code:**
+
+![old-css-code](./assets/images/previous-css.jpg)
+
+**New code:**
+
+![new-css](./assets/images/new-css.jpg)
+
+Previous css: **200 lines** <br/>
+New css: **132 lines**
