@@ -10,7 +10,7 @@ You can review the current web application's appearance and functionality by goi
 
 ## :heavy_check_mark: Descriptive page title
 
-The title has been modified to be more decriptive
+The title has been modified to be more descriptive
 
 ```html
 <title>Horiseon | A marketing company</title>
